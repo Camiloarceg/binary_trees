@@ -18,7 +18,6 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 
 /**
  * binary_tree_size - measures the size of a binary tree.
- *
  * @tree: the tree.
  * Return: the size of the tree.
  */
